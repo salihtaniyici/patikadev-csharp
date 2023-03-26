@@ -1,0 +1,15 @@
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\bin\Debug\net7.0\exception-handling.exe
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\bin\Debug\net7.0\exception-handling.deps.json
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\bin\Debug\net7.0\exception-handling.runtimeconfig.json
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\bin\Debug\net7.0\exception-handling.dll
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\bin\Debug\net7.0\exception-handling.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\obj\Debug\net7.0\exception-handling.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\obj\Debug\net7.0\exception-handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\obj\Debug\net7.0\exception-handling.AssemblyInfoInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\obj\Debug\net7.0\exception-handling.AssemblyInfo.cs
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\obj\Debug\net7.0\exception-handling.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\obj\Debug\net7.0\exception-handling.dll
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\obj\Debug\net7.0\refint\exception-handling.dll
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\obj\Debug\net7.0\exception-handling.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\obj\Debug\net7.0\exception-handling.genruntimeconfig.cache
+C:\Users\Salih\Desktop\patikadev-csharp\exception-handling\obj\Debug\net7.0\ref\exception-handling.dll
