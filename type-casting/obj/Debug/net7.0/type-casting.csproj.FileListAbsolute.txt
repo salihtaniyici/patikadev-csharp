@@ -1,0 +1,15 @@
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\bin\Debug\net7.0\type-casting.exe
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\bin\Debug\net7.0\type-casting.deps.json
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\bin\Debug\net7.0\type-casting.runtimeconfig.json
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\bin\Debug\net7.0\type-casting.dll
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\bin\Debug\net7.0\type-casting.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\obj\Debug\net7.0\type-casting.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\obj\Debug\net7.0\type-casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\obj\Debug\net7.0\type-casting.AssemblyInfoInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\obj\Debug\net7.0\type-casting.AssemblyInfo.cs
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\obj\Debug\net7.0\type-casting.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\obj\Debug\net7.0\type-casting.dll
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\obj\Debug\net7.0\refint\type-casting.dll
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\obj\Debug\net7.0\type-casting.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\obj\Debug\net7.0\type-casting.genruntimeconfig.cache
+C:\Users\Salih\Desktop\patikadev-csharp\type-casting\obj\Debug\net7.0\ref\type-casting.dll
