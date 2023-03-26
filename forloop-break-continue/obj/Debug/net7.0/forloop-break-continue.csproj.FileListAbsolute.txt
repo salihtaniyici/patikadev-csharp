@@ -1,0 +1,15 @@
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\bin\Debug\net7.0\forloop-break-continue.exe
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\bin\Debug\net7.0\forloop-break-continue.deps.json
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\bin\Debug\net7.0\forloop-break-continue.runtimeconfig.json
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\bin\Debug\net7.0\forloop-break-continue.dll
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\bin\Debug\net7.0\forloop-break-continue.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\obj\Debug\net7.0\forloop-break-continue.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\obj\Debug\net7.0\forloop-break-continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\obj\Debug\net7.0\forloop-break-continue.AssemblyInfoInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\obj\Debug\net7.0\forloop-break-continue.AssemblyInfo.cs
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\obj\Debug\net7.0\forloop-break-continue.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\obj\Debug\net7.0\forloop-break-continue.dll
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\obj\Debug\net7.0\refint\forloop-break-continue.dll
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\obj\Debug\net7.0\forloop-break-continue.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\obj\Debug\net7.0\forloop-break-continue.genruntimeconfig.cache
+C:\Users\Salih\Desktop\patikadev-csharp\forloop-break-continue\obj\Debug\net7.0\ref\forloop-break-continue.dll
