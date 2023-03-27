@@ -1,0 +1,15 @@
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\bin\Debug\net7.0\datetime-math.exe
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\bin\Debug\net7.0\datetime-math.deps.json
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\bin\Debug\net7.0\datetime-math.runtimeconfig.json
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\bin\Debug\net7.0\datetime-math.dll
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\bin\Debug\net7.0\datetime-math.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\obj\Debug\net7.0\datetime-math.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\obj\Debug\net7.0\datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\obj\Debug\net7.0\datetime-math.AssemblyInfoInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\obj\Debug\net7.0\datetime-math.AssemblyInfo.cs
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\obj\Debug\net7.0\datetime-math.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\obj\Debug\net7.0\datetime-math.dll
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\obj\Debug\net7.0\refint\datetime-math.dll
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\obj\Debug\net7.0\datetime-math.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\obj\Debug\net7.0\datetime-math.genruntimeconfig.cache
+C:\Users\Salih\Desktop\patikadev-csharp\datetime-math\obj\Debug\net7.0\ref\datetime-math.dll
