@@ -1,0 +1,15 @@
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\bin\Debug\net7.0\recursive-extension-methods.exe
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\bin\Debug\net7.0\recursive-extension-methods.deps.json
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\bin\Debug\net7.0\recursive-extension-methods.runtimeconfig.json
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\bin\Debug\net7.0\recursive-extension-methods.dll
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\bin\Debug\net7.0\recursive-extension-methods.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\obj\Debug\net7.0\recursive-extension-methods.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\obj\Debug\net7.0\recursive-extension-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\obj\Debug\net7.0\recursive-extension-methods.AssemblyInfoInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\obj\Debug\net7.0\recursive-extension-methods.AssemblyInfo.cs
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\obj\Debug\net7.0\recursive-extension-methods.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\obj\Debug\net7.0\recursive-extension-methods.dll
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\obj\Debug\net7.0\refint\recursive-extension-methods.dll
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\obj\Debug\net7.0\recursive-extension-methods.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\obj\Debug\net7.0\recursive-extension-methods.genruntimeconfig.cache
+C:\Users\Salih\Desktop\patikadev-csharp\recursive-extension-methods\obj\Debug\net7.0\ref\recursive-extension-methods.dll
