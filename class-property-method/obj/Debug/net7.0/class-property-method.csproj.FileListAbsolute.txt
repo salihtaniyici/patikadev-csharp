@@ -1,0 +1,15 @@
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\bin\Debug\net7.0\class-property-method.exe
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\bin\Debug\net7.0\class-property-method.deps.json
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\bin\Debug\net7.0\class-property-method.runtimeconfig.json
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\bin\Debug\net7.0\class-property-method.dll
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\bin\Debug\net7.0\class-property-method.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\obj\Debug\net7.0\class-property-method.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\obj\Debug\net7.0\class-property-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\obj\Debug\net7.0\class-property-method.AssemblyInfoInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\obj\Debug\net7.0\class-property-method.AssemblyInfo.cs
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\obj\Debug\net7.0\class-property-method.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\obj\Debug\net7.0\class-property-method.dll
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\obj\Debug\net7.0\refint\class-property-method.dll
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\obj\Debug\net7.0\class-property-method.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\obj\Debug\net7.0\class-property-method.genruntimeconfig.cache
+C:\Users\Salih\Desktop\patikadev-csharp\class-property-method\obj\Debug\net7.0\ref\class-property-method.dll
