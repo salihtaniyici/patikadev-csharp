@@ -1,0 +1,15 @@
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\bin\Debug\net7.0\class-constructor.exe
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\bin\Debug\net7.0\class-constructor.deps.json
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\bin\Debug\net7.0\class-constructor.runtimeconfig.json
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\bin\Debug\net7.0\class-constructor.dll
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\bin\Debug\net7.0\class-constructor.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\obj\Debug\net7.0\class-constructor.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\obj\Debug\net7.0\class-constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\obj\Debug\net7.0\class-constructor.AssemblyInfoInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\obj\Debug\net7.0\class-constructor.AssemblyInfo.cs
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\obj\Debug\net7.0\class-constructor.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\obj\Debug\net7.0\class-constructor.dll
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\obj\Debug\net7.0\refint\class-constructor.dll
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\obj\Debug\net7.0\class-constructor.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\obj\Debug\net7.0\class-constructor.genruntimeconfig.cache
+C:\Users\Salih\Desktop\patikadev-csharp\class-constructor\obj\Debug\net7.0\ref\class-constructor.dll
