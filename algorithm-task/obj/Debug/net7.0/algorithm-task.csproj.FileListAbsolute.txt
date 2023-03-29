@@ -1,0 +1,15 @@
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\bin\Debug\net7.0\algorithm-task.exe
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\bin\Debug\net7.0\algorithm-task.deps.json
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\bin\Debug\net7.0\algorithm-task.runtimeconfig.json
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\bin\Debug\net7.0\algorithm-task.dll
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\bin\Debug\net7.0\algorithm-task.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\obj\Debug\net7.0\algorithm-task.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\obj\Debug\net7.0\algorithm-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\obj\Debug\net7.0\algorithm-task.AssemblyInfoInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\obj\Debug\net7.0\algorithm-task.AssemblyInfo.cs
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\obj\Debug\net7.0\algorithm-task.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\obj\Debug\net7.0\algorithm-task.dll
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\obj\Debug\net7.0\refint\algorithm-task.dll
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\obj\Debug\net7.0\algorithm-task.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\obj\Debug\net7.0\algorithm-task.genruntimeconfig.cache
+C:\Users\Salih\Desktop\patikadev-csharp\algorithm-task\obj\Debug\net7.0\ref\algorithm-task.dll
