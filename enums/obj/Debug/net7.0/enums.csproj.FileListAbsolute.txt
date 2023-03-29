@@ -1,0 +1,15 @@
+C:\Users\Salih\Desktop\patikadev-csharp\enums\bin\Debug\net7.0\enums.exe
+C:\Users\Salih\Desktop\patikadev-csharp\enums\bin\Debug\net7.0\enums.deps.json
+C:\Users\Salih\Desktop\patikadev-csharp\enums\bin\Debug\net7.0\enums.runtimeconfig.json
+C:\Users\Salih\Desktop\patikadev-csharp\enums\bin\Debug\net7.0\enums.dll
+C:\Users\Salih\Desktop\patikadev-csharp\enums\bin\Debug\net7.0\enums.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\enums\obj\Debug\net7.0\enums.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\patikadev-csharp\enums\obj\Debug\net7.0\enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Desktop\patikadev-csharp\enums\obj\Debug\net7.0\enums.AssemblyInfoInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\enums\obj\Debug\net7.0\enums.AssemblyInfo.cs
+C:\Users\Salih\Desktop\patikadev-csharp\enums\obj\Debug\net7.0\enums.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\patikadev-csharp\enums\obj\Debug\net7.0\enums.dll
+C:\Users\Salih\Desktop\patikadev-csharp\enums\obj\Debug\net7.0\refint\enums.dll
+C:\Users\Salih\Desktop\patikadev-csharp\enums\obj\Debug\net7.0\enums.pdb
+C:\Users\Salih\Desktop\patikadev-csharp\enums\obj\Debug\net7.0\enums.genruntimeconfig.cache
+C:\Users\Salih\Desktop\patikadev-csharp\enums\obj\Debug\net7.0\ref\enums.dll
